@@ -27,5 +27,6 @@
 
 ### What is a script tag?
 
-1.
-@.
+1. "<section>"
+2. "<p>"
+3. where javascript code is placed in between.
