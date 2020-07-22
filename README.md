@@ -1,8 +1,10 @@
 # Code 201 Reading Notes
 ### This is a journal to summarize information and thoughts gathered from various reading assignments.
+#### Check it out live: 
 
 ## Table of Contents
 | Daily reading activites   | 
+|---------------------------|
 |[Read: 01 - ](class-01.md) | 
 |[Read: 02 - ](class-01.md) |
 |[Read: 03 - ](class-02.md) |
