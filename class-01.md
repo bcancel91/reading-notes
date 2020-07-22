@@ -27,6 +27,6 @@
 
 ### What is a script tag?
 
-1. "<section>"
-2. "<p>"
-3. where javascript code is placed in between.
+1. A set of tag that tells the browser the type of document.
+2. A set of tags that are made of (p's).
+3. A set of tags where javascript code is placed in between.
