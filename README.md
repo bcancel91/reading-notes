@@ -6,10 +6,10 @@
 | Daily reading activites   | 
 |---------------------------|
 |[Read: 01 - Introductory HTML and JavaScript ](class-01.md) | 
-|[Read: 02 - ](class-01.md) |
-|[Read: 03 - ](class-02.md) |
-|[Read: 04 - ](class-03.md) |
-|[Read: 05 - ](class-01.md) | 
+|[Read: 02 - ] (class-02.md) |
+|[Read: 03 - HTML Lists, CSS Boxes, JS Control Flow ](class-03.md) |
+|[Read: 04 - ](class-04.md) |
+|[Read: 05 - ](class-05.md) | 
 |[Read: 06 - ](class-01.md) |
 |[Read: 07 - ](class-02.md) |
 |[Read: 08 - ](class-03.md) |
