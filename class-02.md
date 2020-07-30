@@ -13,13 +13,16 @@
 <h5> h5 = this is a level 5 heading
 <h6> h6 = this is a level 6 heading
 
-<i> = you can make characters appear italic
+<i> i = you can make characters appear italic
 
-<b> = makes characters appear bold
+<b> b = makes characters appear bold
+ 
+br = tells the browser to display <br /> content on a new line <br /> <br />
+hr = creates an inline line to seperate content or divide sections
 
-<br /> = tells the browser to display content on a new line
-
- <hr /> = creates an inline line to seperate content or divide sections
+<hr />
+  
+ 
 
 ## css
 
