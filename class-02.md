@@ -6,12 +6,12 @@
 
 ## tags
 
-**h1** <h1> = this is a main heading
-**h2** <h2> = this is a level 2 heading
-**h3** <h3> = this is a level 3 heading
-**h4** <h4> = this is a level 4 heading
-**h5** <h5> = this is a level 5 heading
-**h6** <h6> = this is a level 6 heading
+**h1** h1 = this is a main heading
+**h2** h2 = this is a level 2 heading
+**h3** h3 = this is a level 3 heading
+**h4** h4 = this is a level 4 heading
+**h5** h5 = this is a level 5 heading
+**h6** h6 = this is a level 6 heading
 
 <i> = you can make characters appear italic
 
