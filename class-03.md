@@ -2,7 +2,7 @@
 
 ## Vocabulary/definition list
 
-**_ ordered list _** = An ordered list is a numbered list of items.
+**ordered list ** = An ordered list is a numbered list of items.
 
 unordered list = An unordered list is a bulleted list of items.
 
