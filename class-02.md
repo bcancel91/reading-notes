@@ -1,4 +1,4 @@
-# Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+# HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 **structual markup** = that elements that you can use to describe both headings and paragraphs
 
@@ -6,7 +6,7 @@
 
 ## tags
 
-**h1** <h1> = bthis is a main heading
+**h1** <h1> = this is a main heading
 **h2** <h2> = this is a level 2 heading
 **h3** <h3> = this is a level 3 heading
 **h4** <h4> = this is a level 4 heading
