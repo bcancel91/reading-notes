@@ -2,30 +2,33 @@
 
 ## Vocabulary/definition list
 
-### list types
+**_ ordered list _** = An ordered list is a numbered list of items.
 
-Ordered list
-Unordered list
-Definition list
+unordered list = An unordered list is a bulleted list of items.
 
-### overflow
+definition list = A definition list is a list of terms and corresponding definitions.
+Definition lists are formatted with the term on the left with the definition following on the right or on the next line.
 
-Hidden
-Scroll
+overflow = can have two values and the property is called to inform the browser on how to display content that overlaps its container.
 
-### CSS boxes
+hidden = A property that hides extra content that does not fit in box.
 
-(ManBearPig)
-Margin
-Border
-Padding
+scroll = A property that adds a scroll bar to see the hidden content that did not fit in the box.
 
-border-image
-box shadow
-border-radius
+margin = controls the space around the outside of the container.
 
-if else
+border = is a property that controls how the outline of the container is displayed.
 
-switch
+padding = property is the spacing after the border but inside the conatiner.
 
-loops
+border-image = property allows you to specify an image to be used as the border around an element.
+
+box-shadow = property adds shadow effects around an element's frame. You can set multiple effects separated by commas.
+
+border-radius = defines the radius of the element's corners, allows you to add rounded corners to elements.
+
+if else = statement specifies a block of code to be executed if the first condition is false.
+
+switch = statement allows you to select one of many code blocks to be executed.
+
+loops = runs the same code over and over again, each time with a different value.
