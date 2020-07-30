@@ -12,6 +12,7 @@
 <h4> h4 = this is a level 4 heading
 <h5> h5 = this is a level 5 heading
 <h6> h6 = this is a level 6 heading
+ <br />
 
 <i> i = you can make characters appear italic
 
