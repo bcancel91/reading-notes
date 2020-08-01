@@ -34,5 +34,7 @@ hr = creates an inline line to seperate content or divide sections
 **value** = specify the settings you want to use for the chosen properties.
 
 **href** = the path of css file.
+
 **rel** = the relationship between the HTML page and the file its linked to.
+
 **type** = the attribute specifies the type of document being linked to.
