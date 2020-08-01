@@ -38,3 +38,15 @@ hr = creates an inline line to seperate content or divide sections
 **rel** = the relationship between the HTML page and the file its linked to.
 
 **type** = the attribute specifies the type of document being linked to.
+
+<hr />
+
+## js
+
+**statements** = are instructions and each one begins on a new line.
+
+**comments** = are used to breifly explain how the code works.
+
+**variable** = holds the data value and it can be changed anytime. JavaScript uses reserved keyword var to declare a variable. A variable must have a unique name.
+
+**booleans** = are a data types that can have either a true or false value.
