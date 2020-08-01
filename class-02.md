@@ -17,23 +17,22 @@
 <i> i = you can make characters appear italic
 
 <b> b = makes characters appear bold
- 
+
 br = tells the browser to display <br /> content on a new line <br /> <br />
 hr = creates an inline line to seperate content or divide sections
 
 <hr />
-  
- 
 
 ## css
 
-selectors & declaration
+**selectors** = indicate which element the rule applies to.
 
-Property & value
+**declaration** = indicate how the elements referred to in the selector should be styled.
 
-<style>
+**property** = indicates the aspects of the element you want to change.
 
-<link>
-href
-rel 
-type
+**value** = specify the settings you want to use for the chosen properties.
+
+**href** = the path of css file.
+**rel** = the relationship between the HTML page and the file its linked to.
+**type** = the attribute specifies the type of document being linked to.
